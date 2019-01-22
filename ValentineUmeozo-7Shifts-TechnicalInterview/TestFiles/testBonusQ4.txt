@@ -1,0 +1,5 @@
+//$$$,@@@\n1$$$2@@@1001	3	Should be 3	
+//$$$$,@@@,**\n10$$$$120@@@40**5	175	Should be 175	
+//$$,****,#@#@\n1$$2****3#@#@4	10	Should be 10	
+//@$,#$,!!\n2!!300#$8@$40	350	Should	be	13	
+//*@,%&\n-2*@-50*@40%&6	Negatives Not Allowed! ->  -2 -50	Should be a string of negative numbers

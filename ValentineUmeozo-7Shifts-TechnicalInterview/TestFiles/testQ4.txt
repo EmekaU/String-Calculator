@@ -1,0 +1,4 @@
+//$$$$\n1$$$$2$$$$3$$$$-21$$$$1000	Negatives Not Allowed! ->  -21	Should be a string	
+//;\n1;3;4	8	Should be 8	
+//@\n2@3@8	13	Should be 13	
+//*\n25*300*80*55*-21*34*3\n*-90	Negatives Not Allowed! ->  -21  -90	Should be a string of negative numbers

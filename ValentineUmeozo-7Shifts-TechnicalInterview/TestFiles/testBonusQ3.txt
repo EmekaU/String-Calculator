@@ -1,0 +1,5 @@
+//$,@\n1$2@3	6	Should be 6	
+//*,#,$\n10$120#40*5	175	Should be 175	
+//$,#,!\n2!300#8$40	350	Should be 350	
+//*,@,%,&\n200*50000&40%6@0	246	Should be a 246	
+//$,&\n1$2&-3	Negatives Not Allowed! ->  -3	Should be a string of negative numbers	
